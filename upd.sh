@@ -1,0 +1,1 @@
+wget -N https://raw.githubusercontent.com/imai3/basic_ui/main/ui.js
